@@ -1,0 +1,95 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-image:linear-gradient(rgb(167, 219, 240),rgb(249, 163, 177),rgb(195, 195, 105));
+}
+    .p-1{
+       
+        color: black;
+        border: 3px solid;
+        border-radius: 20px;
+        width: 200px;
+        margin-left: 50%;
+        text-align: center;
+        font-size: 20px;
+    }
+    h2{
+        color: black;
+        font-size: 25px;
+         margin-left: 2px;
+    }
+   
+#i-1{
+    
+    width: 90px;
+    height: 80px;
+    border-radius: 20px;
+    border: double 5px;
+    position: absolute ;
+ 
+    top: 25px;
+    right: 2%;
+    margin-top: 1px;
+}
+#b{
+    margin-top: 2%;
+    
+
+}
+.im1{
+    
+    height: 25px;
+    margin-top: 15px;
+}
+#d-1 a{
+    font-size: 20px;
+    color: chocolate;
+    text-decoration: none;
+    margin: 12px;
+    border: 1px solid;
+    padding: 5px;
+    background-color:beige;
+    border-radius:20px ;
+
+}
+
+#p-1{
+    text-decoration: none;
+    padding-left:40px;
+}
+#d-2{
+   display: flex;
+   justify-content: space-between;
+  
+  
+}
+.aa{
+
+    height: 60px;
+    width: 80px;
+}
+.im2{
+    margin-right: 250px;
+}
+#d-1{
+    display: flex;
+    justify-content: space-around;
+}
+#img11{
+    position: absolute;
+    margin-top: 100px;
+    right: 15px;
+    border-radius:20px;
+    border: 2px solid;
+    height: 180px;
+}
+#btn{
+    position: fixed;
+    right: 1px;
+    bottom: 1px;
+}
+#abc{
+    height: 70px;
+}
