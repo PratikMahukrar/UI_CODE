@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+}
+#i2-d1{
+    background-image: url(./petr-sevcovic-qE1jxYXiwOA-unsplash.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.i2-1{
+    color: white;
+    font-size: 75px;
+    font-family: 'Black Ops One', cursive;
+    margin-left: 20%;
+   
+    
+}
+.mycarousel{
+    height: 70vh;
+   
+}
+.carousell{
+    
+    margin-top: 10vh;
+    border-radius: 20px;
+   margin-left: auto;
+   margin-right: auto;
+    width: 80vh;
+}
+.k1{
+    color: black;
+    background-color: aliceblue;
+    border-radius: 50px;
+}
+#k1-1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: black;
+    background-color: aliceblue;
+    border-radius: 100px;
+}
